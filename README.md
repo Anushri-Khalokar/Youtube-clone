@@ -32,8 +32,4 @@ Author
 Anushri khalokar– learning web development and making small projects.
 
 
----
 
-If you want, I can also make it even shorter and super casual, so it looks like something you personally wrote. This is good for beginners’ GitHub projects.
-
-Do you want me to do that?
