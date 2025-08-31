@@ -25,11 +25,4 @@ How to View
 Technologies Used
 
 HTML
-
 CSS
-Author
-
-Anushri khalokar– learning web development and making small projects.
-
-
-
